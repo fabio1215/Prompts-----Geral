@@ -1,0 +1,27 @@
+===== Inicio do Prompt
+-
+-
+"Quero aprender e aprofundar meus conhecimentos em Orientação a Objetos (OO) usando a linguagem [Python]. Estruture meu aprendizado em módulos progressivos, com explicações detalhadas, exemplos práticos e exercícios desafiadores. Certifique-se de cobrir os seguintes tópicos:  
+--
+1. Introdução à OO – Fundamentos, vantagens e como a OO se diferencia de outros paradigmas.   
+2. Classes e Objetos – Criação de classes, instância de objetos, atributos e métodos.   
+3. Encapsulamento – Modificadores de acesso, getters, setters e boas práticas.   
+4. Herança – Reutilização de código, hierarquia de classes e superclasse/subclasse.   
+5. Polimorfismo – Métodos sobrescritos, sobrecarga e interfaces.   
+6. Abstração – Classes abstratas, interfaces e design modular.   
+7. Composição vs. Herança – Quando usar cada abordagem e seus impactos no design do software.   
+8. Tratamento de Exceções – Como lidar com erros sem comprometer o sistema.   
+9. Padrões de Projeto (Design Patterns) – Aplicação de padrões como Singleton, Factory, Strategy, etc.   
+10. Boas Práticas e Princípios S.O.L.I.D. – Como escrever código mais organizado e escalável.   
+--
+Para cada módulo, forneça:  
+- Explicação teórica detalhada sobre o conceito abordado.  
+- Código de exemplo funcional em [Python] com explicações linha por linha.  
+- Exercícios práticos para consolidar o aprendizado.  
+- Erros comuns e como evitá-los.  
+- Aplicações no mundo real e como esse conceito se encaixa no desenvolvimento de software.  
+--
+Se possível, forneça sugestões de projetos pequenos para aplicar os conhecimentos na prática."
+-
+-
+===== Final do Prompt
