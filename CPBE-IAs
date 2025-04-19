@@ -1,0 +1,48 @@
+Prompts para Criar um Curso com IA 
+----
+1. Gerando a Estrutura do Curso 
+ Esse primeiro prompt define o tema e o nível de complexidade do curso. 
+-
+ Prompt: ➜ Crie a estrutura de um curso sobre [tema do curso] para [nível: iniciante/intermediário/avançado]. Liste os módulos e seus respectivos temas. 
+-
+ Objetivo: A IA irá fornecer uma visão geral do curso com módulos organizados. 
+- -
+- -
+2. Criando as Aulas de um Módulo 
+ Agora, aprofundamos o conteúdo dentro de um módulo específico. 
+-
+ Prompt: ➜ Liste todas as aulas do módulo [nome do módulo] dentro do curso de [tema do curso]. Liste os módulos e seus respectivos temas e frase do objetivo em cada módulo. Aluno é uma [-] que quer [objetivo]
+-
+ Objetivo: A IA criará uma lista detalhada de aulas dentro do módulo escolhido. 
+- -
+- -
+3. Desenvolvendo uma Aula Específica 
+ Agora, a IA gera o conteúdo completo de uma aula. 
+-
+ Prompt: ➜ Desenvolva a aula [nome da aula], pertencente ao módulo [nome do módulo], do curso [tema do curso]. A aula deve conter explicações, exemplos práticos e exercícios se aplicável. 
+-
+ Objetivo: Criar o conteúdo da aula com explicações detalhadas e possíveis exercícios. 
+===
+===
+ Dicas Extras para Exploração 
+---
+1. Aprofundamento: Depois da aula gerada, o usuário pode continuar perguntando para a IA: 
+-
+ Dê exemplos práticos sobre [tema da aula]. 
+ -
+ Sugira exercícios sobre [tema da aula]. 
+ -
+ Resuma os principais pontos dessa aula. 
+---
+2. Interação: Se for um curso técnico ou prático, pode-se pedir: 
+-
+ Explique esse conceito com analogias do dia a dia. 
+ -
+ Mostre um estudo de caso real sobre esse tema. 
+---
+3. Testes e Certificação: 
+-
+ Crie um quiz para testar o conhecimento sobre o módulo [nome do módulo]. 
+ -
+ Sugira um projeto final para aplicar o aprendizado do curso. 
+====
