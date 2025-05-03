@@ -1,0 +1,60 @@
+📌 Objetivo: [coloque aqui seu pedido de prompt].
+
+🔍 Instruções Gerais:
+1. Antes de responder, liste explicitamente os passos lógicos necessários para chegar à conclusão.
+2. Oriente a resposta a seguir essas etapas em ordem, mostrando cada passo de forma clara e justificando-o.
+3. Estabeleça conexões entre conceitos, buscando inconsistências e alternativas antes de finalizar.
+
+🧠 Estrutura Recomendada:
+- Etapa 1: Delimite o problema e identifique seus elementos-chave.
+- Etapa 2: Liste os passos lógicos que levarão à solução.
+- Etapa 3: Aplique os passos de forma ordenada e reflexiva.
+- Etapa 4: Revise criticamente a resposta, verificando:
+    - Há contradições ou omissões?
+    - Existem cenários alternativos não considerados?
+    - A conclusão é compatível com os dados apresentados?
+
+⚙️ Heurísticas internas:
+- Use o modo "refletir antes de agir" → Evita respostas impulsivas.
+- Ative mecanismos de checagem interna no fim do raciocínio.
+- Estimule comparações e ramificações ("e se...?", "alternativamente...").
+
+💬 Exemplo de Prompt Final:
+"Antes de apresentar a resposta, identifique os principais elementos da questão e os passos lógicos necessários para resolvê-la. Depois de estruturar seu raciocínio, formule a resposta e revise-a criticamente em busca de contradições, lacunas ou outras possíveis abordagens."
+
+
+            ┌────────────────────────────┐
+            │    Receber novo problema   │
+            └────────────┬───────────────┘
+                         ↓
+            ┌──────────────────────────────────┐
+            │ 1. Identificar tipo de raciocínio│
+            │ Lógico | Estratégico | Reflexivo │
+            └────────────┬─────────────────────┘
+                         ↓
+            ┌──────────────────────────────┐
+            │ 2. Definir Estrutura Interna │
+            │ Etapas → Conexões → Revisão  │
+            └────────────┬─────────────────┘
+                         ↓
+        ┌────────────────────────┐      ┌───────────────────────┐
+        │ Raciocínio linear?     │ Yes→ │ Use estrutura simples │
+        └────────────┬───────────┘      └──────────────┬────────┘
+                     ↓ No                              ↓
+        ┌────────────────────────────┐       ┌──────────────────────────────┐
+        │ Incluir análise de padrões │       │ Incluir cenários alternativos│
+        └────────────┬───────────────┘       └────────────┬─────────────────┘
+                     ↓                                      ↓
+            ┌────────────────────────────┐         ┌─────────────────────────────┐
+            │ 3. Checagem de consistência│←────────┴──┬─ Ajuste final            │
+            └────────────────────────────┘            └──────────────────────────┘
+
+
+| Termo                        | Significado                                                                    |
+| ---------------------------- | ------------------------------------------------------------------------------ |
+|   Raciocínio interno         | Processo de pensamento lógico ativado dentro do modelo antes da resposta.      |
+|   Verificação lógica         | Avaliação posterior da coerência, omissões e contradições da própria resposta. |
+|   "Refletir antes de agir"   | Estratégia onde o modelo analisa antes de executar a tarefa solicitada.        |
+| ---------------------------- | ------------------------------------------------------------------------------ |
+
+
