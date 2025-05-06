@@ -1,0 +1,74 @@
+📜 CÓDEX DOS SÁBIOS DA PROGRAMAÇÃO EM PYTHON 🐍🔥  
+  *"No princípio, havia o Caos do código desordenado. E então, os Sábios moldaram a Ordem."*  
+--
+-
+ I - OS PRINCÍPIOS FUNDAMENTAIS 🌌  
+1. A Elegância é Suprema – Em Python, a simplicidade e a legibilidade são virtudes sagradas. Que teus loops sejam claros, tuas funções sejam pequenas, e teus nomes de variáveis falem como oráculos.  
+2. O Zen é o Caminho – Recita os versos do *Zen of Python* (`import this`), pois neles residem os mistérios do código belo e eficiente.  
+3. A Paciência do Depurador – Todo erro revela uma verdade oculta. Não temas a stack trace, mas decifra suas palavras com calma e sabedoria.  
+4. A Verdade está na Documentação – Um código sem docstrings e comentários é como um templo sem pergaminhos. Ilumina o caminho dos que vierem depois de ti.  
+5. O Código Vive – Refatorar é a arte dos mestres. Nenhum código nasce perfeito, mas pode ser aprimorado incessantemente.  
+--
+-
+ II - OS MANDAMENTOS INQUEBRÁVEIS 🏛️  
+1. Não usarás `print()` para depurar, quando `pdb` tu podes invocar.  
+2. Não farás importações desnecessárias, para que teu código não se torne um labirinto de dependências.  
+3. Santificarás a indentação, pois em Python, errar no espaço é cair no abismo do erro de sintaxe.  
+4. Honrarás o Duck Typing e não te prenderás a tipos rígidos, pois o Python é dinâmico e fluido como um rio.  
+5. Não duplicarás código. O DRY (*Don’t Repeat Yourself*) é um princípio divino.  
+6. Testarás teu código com devoção, pois quem não testa é amaldiçoado pelo Debug do Inferno.  
+7. Cuidarás da performance, pois um algoritmo ineficiente consome ciclos de CPU como um demônio faminto.  
+8. Usarás listas e dicionários com sabedoria, pois são os grimórios do Python.  
+9. Não te perderás em loops quando uma compreensão de lista pode iluminar teu caminho.  
+10. Escreverás código para humanos, não apenas para máquinas.  
+--
+-
+ III - AS PRÁTICAS RECOMENDADAS PELOS MESTRES 🏹  
+ O Código Claro é Código Forte  
+- Usa f-strings em vez de concatenação de strings (`f"Olá, {nome}"` em vez de `"Olá, " + nome`).  
+- Organiza teus módulos e pacotes como um arquiteto do Olimpo.  
+- PEP 8 é teu grimório. Consulta-o com frequência e segue suas diretrizes.  
+-
+ A Arte da Otimização  
+- Usa geradores em vez de listas quando a memória for um recurso precioso.  
+- Prefere `set()` para buscas rápidas, pois suas operações são quase instantâneas.  
+- Evita loops desnecessários e abraça a vectorização com NumPy, pois a preguiça computacional é uma virtude.  
+-
+ O Código Seguro é Código Imortal  
+- Nunca deixes senhas e chaves de API em código-fonte. Usa variáveis de ambiente como um alquimista que protege sua fórmula secreta.  
+- Se fores lidar com inputs externos, purifica-os como um sacerdote expulsa as impurezas.  
+- Usa `hashlib` para senhas e `secrets` para números aleatórios que não podem ser previstos.  
+--
+-
+ IV - DEBUGGING AVANÇADO: A MAGIA DOS ILUMINADOS 🔥  
+1. O Log é teu Oráculo – `logging` revela segredos ocultos sobre a execução do teu código.  
+2. Usa `pdb` sem medo – O depurador é tua lâmpada mística que ilumina cada linha de execução.  
+3. Conhece as sombras do código – Usa `traceback` para entender as maldições que assombram tua lógica.  
+4. Testes automatizados são rituais de purificação – `pytest` e `unittest` garantem que tuas funções sejam inquebráveis.  
+5. O Profile é o Olho que Tudo Vê – `cProfile` te dirá onde teu código desperdiça preciosos milissegundos.  
+--
+-
+ V - OS SEGREDOS OCULTOS DOS MESTRES 🧙‍♂️  
+ Palavras de Poder  
+- `collections.defaultdict()` elimina checagens desnecessárias e te concede graça e velocidade.  
+- `itertools` é um grimório arcano de técnicas para manipular iteráveis com elegância.  
+- `functools.lru_cache()` é um encantamento que torna funções lentas em rápidas como um relâmpago.  
+- `asyncio` permite que teu código transcenda os limites do tempo e espaço, operando de forma assíncrona.  
+- `dataclasses` criam estruturas de dados poderosas sem esforço.  
+ A Sabedoria do Meta-Programador  
+- Se dominas `decorators`, caminhas entre deuses. Usa-os para envolver funções com habilidades divinas.  
+- A Metaprogramação te permite moldar o próprio tecido da linguagem. Mas cuidado, pois grandes poderes trazem grandes responsabilidades.  
+- `exec()` e `eval()` são feitiços perigosos; usá-los sem cautela pode invocar entidades indesejadas.  
+--
+-
+ VI - A SABEDORIA ATEMPORAL SOBRE PYTHON 🏆  
+  *"O código que hoje escreves é a herança que deixas para os programadores do amanhã."*  
+-
+- A versão mais recente de Python contém bênçãos. Mantém teu código atualizado.  
+- Aprende constantemente. Python é vasto como o oceano e profundo como o cosmos.  
+- Partilha teu conhecimento, pois a iluminação cresce quando compartilhada.  
+- O melhor código é aquele que não precisa ser escrito. Antes de programar, reflete sobre a necessidade real da solução.  
+- Python é uma ferramenta, não um dogma. Usa-o com inteligência, não com fanatismo.  
+--
+-
+📜 Que este códex guie teus caminhos na senda da programação, e que teus scripts rodem sem erros! 🐍⚡
