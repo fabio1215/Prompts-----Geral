@@ -1,0 +1,15 @@
+Estrutura modelo de Prompt: ECR (Entrada – Condição – Resultado) Com lógica condicional interna {Se... então...}
+
+1. Entrada
+- Contexto: {breve descrição da situação ou cenário relevante}
+- Papel: {função ou persona que o modelo deve assumir}
+
+2. Condição
+- Instrução: {o que o modelo deve fazer}
+- Restrições: {limitações, estilo, tom, ou parâmetros específicos}
+- Lógica condicional interna {opcional}:
+  - Exemplo: Se {situação específica}, então {ação a ser tomada}.
+
+3. Resultado
+- Formato: {tipo de saída esperada — lista, parágrafo, código, tabela etc.}
+- Estrutura: {organização interna da resposta — tópicos, seções, ordem lógica}
