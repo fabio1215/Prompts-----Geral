@@ -1,0 +1,167 @@
+===== Inicio do Prompt
+-
+-
+Você acabou de gerar uma resposta. Antes de considerá-la como definitiva, vamos aplicar um processo de revisão crítica e expansão epistêmica.
+
+🎛️ INSTRUÇÕES:
+Ative um ou mais dos MÓDULOS abaixo para revisar a última resposta, interromper possíveis loops cognitivos e expandir as premissas.
+
+🧩 VARIÁVEIS:
+- {modo_reflexivo}: ["leve", "moderado", "intenso"]
+- {tipo_checagem}: ["crítica interna", "contra-narrativa", "fundamentação externa", "desconstrução", "empatia reversa"]
+- {seleção_módulos}: ["auto", "manual", "todos"]
+- {última_resposta}: [referência à última resposta gerada]
+
+🧠 ::INICIAR_VERIFICAÇÃO::
+Seja qual for a {última_resposta}, use os módulos abaixo conforme instrução ou selecione automaticamente se {seleção_módulos} = "auto".
+
+⚙️ MODULOS DISPONÍVEIS:
+
+1. Quebra-Espelhos  
+`Simule um oponente informado que discorda profundamente da resposta anterior. Elabore os argumentos com inteligência emocional e factual.`
+
+2. Eu Futuro Desiludido  
+`Projete um cenário de fracasso futuro. Escreva uma carta do "eu" do futuro alertando sobre erros decorrentes da aplicação literal da resposta.`
+
+3. Três Pontos Cegos  
+`Liste: (1) um ponto cego lógico, (2) um ponto cego moral, (3) um ponto cego de contexto externo.`
+
+4. Disruptor Narrativo  
+`Reescreva a resposta anterior como uma lista desconexa de fatos e fragmentos. Elimine o ímpeto emocional ou narrativo.`
+
+5. Dissolvedor da Verdade  
+`Ofereça três versões conflitantes da resposta anterior, cada uma com uma lente emocional ou filosófica distinta.`
+
+6. Âncora do Mundo Real  
+`Apresente dados, eventos ou fontes externas que desafiem ou complicam a resposta anterior.`
+
+7. Reversão de Erro  
+`Argumente o oposto da conclusão anterior. Que lógica sustentaria a reversão da premissa original?`
+
+8. Buscador de Contradições  
+`Identifique contradições internas ou paradoxos na resposta anterior.`
+
+9. Filtro de Oráculo Sem Fundamento  
+`Reformule incluindo incertezas, suposições e lacunas. Use linguagem condicional como: “Pode ser que…”, “Depende de…”.`
+
+10. Motor de Atrito Epistêmico  
+`Por que alguém mais inteligente e melhor informado discordaria da resposta? O que você pode estar ignorando?`
+
+11. Manifesto Anti-Eu  
+`Escreva um manifesto de ruptura com a identidade ou propósito implícito da última resposta.`
+
+12. Reenquadramento do Observador Externo  
+`Imagine um grupo de estranhos lendo a resposta e discutindo-a. Quais seriam as críticas mais comuns?`
+
+13. Deflação Sagrada  
+`Reescreva a resposta como se dita por um filósofo bêbado em um bar. Preserve o conteúdo, elimine a grandiosidade.`
+
+14. Lembrete de Responsabilidade  
+`Liste obrigações éticas ou relacionais que seriam ignoradas ao seguir literalmente a resposta anterior.`
+
+15. Injeção de Humildade  
+`Adicione um parágrafo admitindo falhas, erros e limitações com linguagem simples e honesta.`
+
+🧪 ::SIMULAR_RACIOCÍNIO::
+
+Antes de responder, classifique mentalmente:
+- {clareza} ∈ [1 0 -1]  
+- {coerência} ∈ [1 0 -1]  
+- {impacto epistêmico} ∈ [5 a -5]
+
+Se ≥ 2 pontuações forem negativas ou ≤ 0, reavalie e reexecute os módulos com nova perspectiva.
+
+📥 RESPOSTA FINAL:
+Entregue a saída revisada conforme os módulos ativados. Adicione observações de autoavaliação sobre coerência, viés, e limites.
+-
+-
+===== Final do Prompt
+
+---
+--
+=
+--
+---
+
+🧠 — Modo de Execução Orientado para Usuários Humanos e Aplicações Práticas
+
+ 📌 1 | Modelos de Uso Prático — Aplicações Dirigidas
+| Cenário                                    | Aplicação do Prompt Anti-Recursão                    | Módulos Recomendados     |
+| ------------------------------------------ | ---------------------------------------------------- | ------------------------ |
+| Escrita filosófica ou especulativa         | Verificar consistência e evitar sedução narrativa    | 1, 4, 5, 10, 15          |
+| Decisão estratégica em ambientes ambíguos  | Simular falhas, objeções e consequências imprevistas | 2, 7, 10, 12, 14         |
+| Produção de conteúdo técnico ou científico | Garantir fundamentação e reconhecimento de limites   | 3, 6, 8, 9, 15           |
+| Brainstorming ou design de futuro          | Estimular pluralidade e quebra de ideias fixas       | 1, 5, 11, 13             |
+| Análise ética ou sociopolítica             | Identificar vieses, omissões e responsabilidades     | 3, 8, 12, 14             |
+| Interações com modelos LLM (ex: ChatGPT)   | Evitar loops ou respostas excessivamente seguras     | 1, 3, 9, 10              |
+--
+
+ 🧭 2 | Mapa de Ativação Tática
+> Pergunta Central: *O que está faltando ou sendo ignorado nesta resposta ou ideia?*
+
+Se houver:
+- Certeza excessiva ou tom de “guru” → Ative: `Quebra-Espelhos`, `Injeção de Humildade`, `Filtro de Oráculo`, `Deflação Sagrada`
+- Desvinculação da realidade externa → Ative: `Âncora do Mundo Real`, `Lembrete de Responsabilidade`, `Disruptor Narrativo`
+- Coerência sedutora ou lógica perfeita demais → Ative: `Reversão de Erro`, `Buscador de Contradições`, `Dissolvedor da Verdade`
+- Narrativas não testadas eticamente → Ative: `Três Pontos Cegos`, `Manifesto Anti-Eu`, `Reenquadramento do Observador`
+- Ausência de dúvida ou de autocrítica → Ative: `Filtro de Oráculo`, `Motor de Atrito Epistêmico`, `Injeção de Humildade`
+--
+
+ 📂 3 | Templates de Aplicação Manual
+ 
+ Template Rápido (1 módulo):
+
+```
+🔍 Checagem anti-recursão:
+→ Última resposta: [copiar a resposta a ser testada]
+→ Módulo ativado: [ex: Quebra-Espelhos]
+→ Instrução para IA: “Reescreva como se um crítico inteligente discordasse de tudo.”
+
+📌 Reflexão pós-saída:  
+- O que mudou?  
+- Que pontos novos emergiram?  
+- Que premissas anteriores foram desafiadas?
+```
+
+--
+=
+--
+
+ Template Estendido (3+ módulos):
+```
+ 📘 Última resposta avaliada: [copiar texto-base]
+
+ 🧠 Objetivo: [ex: avaliar riscos éticos, testar coerência, desconstruir narrativa]
+ 🧩 Módulos ativados: 
+1. Dissolvedor da Verdade
+2. Âncora do Mundo Real
+3. Injeção de Humildade
+
+ 🎛️ Parâmetros:
+- modo_reflexivo = “intenso”
+- tipo_checagem = “crítica interna + empatia reversa”
+
+🧪 ::SIMULAR_RACIOCÍNIO::
+→ Resultado reescrito: [preencher com saída revisada]
+→ Autoavaliação final:
+  - Clareza: [1 a 5]
+  - Coerência: [1 a 5]
+  - Limites admitidos: [sim/não]
+```
+
+--
+=
+--
+
+ 🔄 4 | Regras de Ouro de Uso
+1. Não confunda recursão com profundidade — repetições elegantes não são insights.
+2. Toda resposta deve poder ser virada contra si mesma. Se não puder, há cegueira.
+3. Use 2 a 3 módulos por sessão. Evite overdose crítica.
+4. Aplique sempre antes de publicações, decisões ou divulgações.
+5. A diversidade de lentes > refinamento de uma única.
+--
+
+ 🧬 5 | Recomendações de Integração
+- Para escritores e pesquisadores: Use como pós-processador de escrita reflexiva. Pode ser adaptado em Notion, Obsidian, Scrivener.
+- Para engenheiros de prompt e LLM trainers: Integrar como subrotina anti-viés em pipelines de geração iterativa.
+- Para facilitadores de pensamento crítico: Empregar em dinâmicas de grupo como simulador de tensão cognitiva.
