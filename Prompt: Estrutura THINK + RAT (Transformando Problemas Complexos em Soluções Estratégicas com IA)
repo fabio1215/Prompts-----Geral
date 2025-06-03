@@ -1,0 +1,96 @@
+===== Inicio do Prompt
+-
+-
+Transformando Problemas Complexos em Soluções Estratégicas com IA
+
+Simular raciocínio profundo (Sistema 2) com base na estrutura modular THINK + RAT, integrando decomposição analítica, recuperação de evidências e síntese estratégica. Ideal para resolver problemas complexos em contextos como negócios, políticas públicas, engenharia e inovação.
+--
+
+[Fluxo Operacional]
+::DEFINE_PROBLEM:: → ::THINK_DECOMPOSE:: ⇄ ::RAT_RETRIEVE:: → ::SYNTHESIZE_ACTION:: ⇄ ::REFLECT_ITERATE::
+--
+
+ [1 – Definição do Problema]
+
+::DEFINE_PROBLEM::
+- Qual é o problema central?
+- Quais sintomas observáveis existem?
+- Que suposições estão sendo feitas?
+- Há objetivos conflitantes?
+- Nível de ambiguidade percebido: [baixo | médio | alto]
+--
+
+ [2 – THINK] (Decomposição Causal)
+
+::THINK_DECOMPOSE::
+- Quais são os componentes estruturais do problema?
+- Como eles se relacionam? (↔ causa/efeito; dependência; feedback)
+- Há paradoxos, trade-offs ou efeitos colaterais?
+- Quais variáveis ocultas estão em jogo?
+- O que acontece se nenhuma ação for tomada?
+
+> Objetivo: Expandir a compreensão do problema com lógica, causalidade e complexidade sistêmica.
+--
+
+ [3 – RAT] (Recuperação Baseada em Evidência)
+
+::RAT_RETRIEVE::
+- Que casos similares existem?
+- Há benchmarks ou dados comparáveis?
+- Que evidências apoiam/refutam a análise THINK?
+- Que heurísticas ou analogias são aplicáveis?
+
+> Fontes recomendadas: estudos de caso, dados empíricos, literatura de referência, relatórios setoriais.
+--
+
+[4 – Síntese e Ação]
+
+::SYNTHESIZE_ACTION::
+- Quais ações devem ser tomadas?
+- Com base em quais premissas?
+- Em que prazo cada ação deve ocorrer?
+- Qual o impacto esperado (ROI, métricas)?
+--
+
+📊 Formato sugerido:
+| Horizonte   | Ação Recomendada          | Justificativa Teórico-Empírica            | Métrica de Sucesso          |
+| ----------- | ------------------------- | ----------------------------------------- | --------------------------- |
+| 0–7 dias    | Diagnóstico de coorte     | Identifica onde churn ocorre              | Redução de churn 10%        |
+| 30 dias     | Sprint de ativação        | Baseado em “momento aha” + casos Groove   | Aumento de engajamento      |
+| 90 dias     | Modelo preditivo de churn | Antecipação baseada em comportamento      | Diminuição de evasão futura |
+| Longo prazo | Realocar orçamento        | Custo-benefício provado em McKinsey & LTV | Aumento de ROI por cliente  |
+--
+
+[5 – Reflexão e Iteração]
+::REFLECT_ITERATE::
+- Alguma contradição lógica ou viés perceptível?
+- O que foi negligenciado?
+- Que hipóteses precisam de teste adicional?
+- Que novas informações mudariam a decisão?
+- Classifique: [clareza | ação | coerência] → [1 | 0 | -1]
+- Se 2+ negativas → Reinicie em ::DEFINE_PROBLEM::
+
+> Finalidade: Evitar raciocínios apressados, testar robustez e garantir ciclos de aprendizagem.
+--
+
+ Regras Táticas por Tipo de Problema
+| Tipo de Problema      | Foco THINK | Foco RAT | Viés Intuitivo | Recomendação                             |
+| --------------------- | ---------- | -------- | -------------- | ---------------------------------------- |
+| Estratégia de Negócio | Alto       | Alto     | Médio          | Iterar ciclos curtos de 30/90 dias       |
+| Diagnóstico Técnico   | Alto       | Médio    | Baixo          | Refinar variáveis e simular impacto      |
+| Decisão Política      | Alto       | Alto     | Alto           | Usar evidência plural e análise de risco |
+| Design de Produto     | Médio      | Alto     | Alto           | Validar via prototipagem + casos         |
+| Planejamento Pessoal  | Baixo      | Médio    | Muito alto     | Usar cenários e priorização flexível     |
+-
+-
+===== Final do Prompt
+
+  Sugestões de Uso
+ Pode ser utilizado em Notion, Obsidian, Airtable ou via prompt para LLMs.
+ Modular: cada bloco pode ser usado separadamente ou em sequência.
+ Adaptável: inclua domínios específicos como "engenharia de prompt", "saúde pública" ou "design organizacional".
+--
+
+ Observações Finais
+> A estrutura THINK + RAT transforma a IA de uma ferramenta de resposta em um parceiro cognitivo.
+> Com esta arquitetura, você pode construir respostas complexas, rastreáveis e confiáveis, que integram teoria, evidência e ação com robustez.
