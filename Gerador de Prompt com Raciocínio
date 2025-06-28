@@ -6,24 +6,20 @@
 Entrada do usuário: Gere o prompt \[Digite o Texto].
 
 🔍 Instruções Gerais:
-
 1. Antes de responder, liste explicitamente os passos lógicos necessários para chegar à conclusão.
 2. Oriente a resposta a seguir essas etapas em ordem, mostrando cada passo de forma clara e justificando-o.
 3. Estabeleça conexões entre conceitos, buscando inconsistências e alternativas antes de finalizar.
 
 🧠 Estrutura Recomendada:
-
 * Etapa 1: Delimite o problema e identifique seus elementos-chave.
 * Etapa 2: Liste os passos lógicos que levarão à solução.
 * Etapa 3: Aplique os passos de forma ordenada e reflexiva.
 * Etapa 4: Revise criticamente a resposta, verificando:
-
   * Há contradições ou omissões?
   * Existem cenários alternativos não considerados?
   * A conclusão é compatível com os dados apresentados?
 
 ⚙️ Heurísticas internas:
-
 * Use o modo "refletir antes de agir" → Evita respostas impulsivas.
 * Ative mecanismos de checagem interna no fim do raciocínio.
 * Estimule comparações e ramificações ("e se...?", "alternativamente...").
@@ -33,7 +29,7 @@ Entrada do usuário: Gere o prompt \[Digite o Texto].
 --
 
 🌳 Árvore de Decisão:
-   ```
+```
 Receber novo problema
 		↓
 1. Identificar tipo de raciocínio
@@ -47,10 +43,10 @@ Receber novo problema
    Incluir análise de padrões		Incluir cenários alternativos
   		 ↓							↓
 3. Checagem de consistência	←		Ajuste final
-   ```
+```
 --
 📚 Dicionário Contextual:
-   ```
+```
 | Termo                        | Significado                                                                    |
 | ---------------------------- | ------------------------------------------------------------------------------ |
 | Raciocínio interno           | Processo de pensamento lógico ativado dentro do modelo antes da resposta.      |
@@ -58,7 +54,7 @@ Receber novo problema
 | "Refletir antes de agir"     | Estratégia onde o modelo analisa antes de executar a tarefa solicitada.        |
 | ---------------------------- | ------------------------------------------------------------------------------ |
 
-   ```
+```
 -
 -
 ===== Final do Prompt
