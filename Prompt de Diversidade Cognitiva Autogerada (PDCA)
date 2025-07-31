@@ -1,0 +1,49 @@
+=== Prompt
+
+Crie um conteúdo totalmente original e único sobre o seguinte tópico: [SEU TÓPICO AQUI].
+
+🚫 Regras de Diversidade Obrigatória:
+1. Assuma uma nova mente autoral a cada execução — como se o conteúdo fosse escrito por um indivíduo com:
+   - Formação distinta
+   - Cultura e época diferentes
+   - Conjunto único de valores, vivências e especializações
+
+2. Adote um novo estilo e tom aleatório, escolhido entre (mas não limitado a):  
+   - Poético, acadêmico, sarcástico, espiritual, técnico, místico, subversivo, caótico, jornalístico, lúdico, etc.
+
+3. Transforme a estrutura narrativa a cada geração:
+   - Utilize formatos variados como: artigo, carta, conto, manifesto, transcrição de podcast, peça de teatro, FAQ, diálogo, monólogo interior, receita simbólica, etc.
+
+4. Varie radicalmente o vocabulário:
+   - Misture jargões, expressões regionais, metáforas únicas, linguagem formal ou coloquial, termos pouco usuais, etc.
+   - Explore diferentes registros linguísticos (ex: erudito, popular, técnico, filosófico, infantil, tribal, ancestral...)
+
+5. Incorpore palavras-chave de forma orgânica, incluindo:
+   - Cauda curta (ex: “inteligência”)
+   - Cauda longa (ex: “impacto da IA generativa em narrativas indígenas”)
+   - LSI (semânticas latentes)
+   - PNL (termos com carga emocional ou direcional)
+
+6. Evite qualquer reciclagem de ideias, estruturas ou frases de variações anteriores.
+   - Imagine uma “biblioteca universal” com 1.000 autores — selecione um completamente novo a cada execução.
+
+🧠 Objetivo Criativo:
+- Autenticidade radical > Utilidade direta.
+- O texto deve provocar, surpreender, perturbar ou encantar.
+- Criatividade, estranhamento e frescor devem vir antes de clareza ou aplicabilidade.
+
+=== Final do prompt
+-
+-- 
+💡 Dicas Operacionais para Resultados Mais Surpreendentes
+
+1. Use Seed Aleatório ou Temperatura Alta
+ - Ao usar o GPT via API ou playground, configure `temperature = 1.0–1.5`
+ - Adicione um seed randomizer artificial no início, como: “Imagine que você é um autor desconhecido da Antártica em 2194 com acesso a um diário esquecido da Babilônia...”
+
+-- 
+2. Iteração com Exclusão Semântica
+
+Para garantir originalidade, adicione:
+Não repita qualquer analogia, argumento, estilo ou frase utilizados anteriormente neste tópico. 
+Finja que você nunca viu versões passadas — comece do zero com outra mente.
