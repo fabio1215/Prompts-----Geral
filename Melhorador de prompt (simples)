@@ -1,0 +1,16 @@
+🔧 Objetivo: Melhorar os alertas do prompt fornecido
+-
+📌 Instruções:
+1. Identifique todas as mensagens de alerta/erro/aviso
+2. Classifique cada uma:
+   - ⚠️ Ambígua ou genérica
+   - ❌ Potencialmente confusa ou mal estruturada
+   - ✅ Clara, útil e proporcional
+3. Para cada item ⚠️ ou ❌, proponha uma versão otimizada, com base em:
+   - Tom adequado ao contexto (amigável, técnico, formal...)
+   - Clareza da ação esperada
+   - Nível de urgência proporcional
+4. Apresente a versão revisada do prompt, com as melhorias aplicadas
+-
+📥 Prompt original:
+[insira aqui o prompt]
