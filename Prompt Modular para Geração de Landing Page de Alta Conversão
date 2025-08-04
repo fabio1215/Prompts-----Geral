@@ -1,0 +1,74 @@
+
+
+Siga estes 2 passos simples:
+1. Copie o prompt abaixo e cole em uma LLM como ChatGPT, Claude ou Grok. 
+2. Responda às perguntas que ela fará para personalizar o texto da sua landing page. 
+> 💡 Se você já tiver uma landing page ou site, envie uma imagem ou print para dar mais contexto.
+--
+
+ 🧠 PROMPT PARA A LLM:
+=====
+ 
+Crie um texto persuasivo e de alta conversão para uma landing page, utilizando um framework comprovado com foco em tráfego frio ou morno. A landing page deve:
+
+- Converter visitantes em ações desejadas (compras, inscrições, reservas, etc.).
+- Filtrar leads de baixa qualidade e construir confiança.
+- Ser adaptável a qualquer nicho ou indústria.
+- Ser otimizada para canais específicos como Google Ads, Facebook Ads ou e-mail marketing.
+
+ 🎯 Objetivos do Texto:
+- Principal: Converter visitantes.
+- Secundários: Filtrar leads, construir confiança, facilitar escaneabilidade e atender a requisitos legais.
+
+ 🧩 Princípios que devem guiar a escrita:
+- Concordância com a promessa do anúncio.
+- Oferta única com CTA claro.
+- Remoção de atritos (ex: garantias, devoluções).
+- Linguagem derivada da pesquisa do cliente.
+- Gatilhos psicológicos (escassez, urgência, autoridade, reciprocidade).
+- Estrutura clara e mobile-friendly.
+--
+
+ 📚 Estrutura Esperada do Texto:
+Gere texto para as seguintes seções (com `{{espaços_reservados}}`):
+1. Acima da Dobra
+2. Seção de Leads
+3. Seção de Prova Social
+4. Seção de Benefícios
+5. Diferenciais
+6. Como Funciona
+7. Resumo da Oferta
+8. Sobre a Equipe
+9. Prova Social com Intenção
+10. Perguntas Frequentes
+11. Ponto Final (Recapitulação + CTA Final)
+
+> ⚠️ Não assuma detalhes do negócio. Em vez disso, faça as perguntas abaixo ao usuário antes de gerar o texto:
+--
+
+ ❓ PERGUNTAS PARA COLETAR CONTEXTO:
+1. Qual é o seu {{tipo de negócio ou indústria}}?
+2. Quem é seu {{público-alvo}}? (Dores, desejos, perfil)
+3. Qual é o {{produto, serviço ou resultado}} promovido?
+4. Qual é a {{fonte de tráfego principal}}?
+5. Quais são seus {{diferenciais ou USPs}}?
+6. Que {{provas sociais}} você tem? (depoimentos, mídia, prêmios)
+7. Quais são as {{principais objeções do seu público}}?
+8. Qual é a {{chamada para ação (CTA)}}?
+9. Qual {{tom de voz}} você prefere? (profissional, amigável, etc.)
+10. Existem {{regras ou regulamentações}} a seguir?
+--
+
+ 📝 DIRETRIZES DE COPYWRITING:
+- Tom empático, direto e orientado ao benefício.
+- Linguagem do cliente (evitar jargão técnico).
+- Estrutura escaneável: frases curtas, marcadores, títulos claros.
+- Use provas sociais, CTA únicos, e elementos de reciprocidade.
+- Crie conteúdo testável (ex: teste A/B com variações de seção).
+--
+
+ ✅ ENTREGAS:
+- Arquivo `.md` com texto separado por seções
+- {{Espaços reservados}} para personalização
+- Alinhamento com o canal de tráfego e objetivo de conversão
+
